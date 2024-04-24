@@ -1,2 +1,0 @@
-Ola git
-diff
